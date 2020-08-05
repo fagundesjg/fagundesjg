@@ -20,9 +20,9 @@
 </h3>
 
 <div style="display: flex; align-items:center; justify-content: center; flex-wrap: wrap;">
-<img style="width: 400px; margin: 5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagundesjg&hide=html&layout=compact&count_private=true&theme=dark" />
+<img style="min-width: 400px; max-width: 400px; margin: 5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagundesjg&hide=html&layout=compact&count_private=true&theme=dark" />
 
-<img style="width: 400px; margin: 5px" src="https://github-readme-stats.vercel.app/api?username=fagundesjg&hide=html&layout=compact&count_private=true&show_icons=true&theme=dark" />
+<img style="min-width: 400px; max-width: 400px; margin: 5px" src="https://github-readme-stats.vercel.app/api?username=fagundesjg&hide=html&layout=compact&count_private=true&show_icons=true&theme=dark" />
 </div>
 
 <h3> 🤝🏻 Connect with Me </h3>
