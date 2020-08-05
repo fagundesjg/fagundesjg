@@ -22,9 +22,9 @@
 <br>
 
 <div style="display: flex; flex-direction: column; align-items:center; justify-content: center; flex-wrap: wrap;">
-<img style="flex: 1; width: 100%; margin: 5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagundesjg&hide=html&layout=compact&count_private=true&theme=dark" />
+<img style="flex: 1; width: 100%; max-width: 500px; margin: 5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagundesjg&hide=html&layout=compact&count_private=true&theme=dark" />
 
-<img style="flex: 1; width: 100%; margin: 5px" src="https://github-readme-stats.vercel.app/api?username=fagundesjg&hide=html&layout=compact&count_private=true&show_icons=true&theme=dark" />
+<img style="flex: 1; width: 100%; max-width: 500px; margin: 5px" src="https://github-readme-stats.vercel.app/api?username=fagundesjg&hide=html&layout=compact&count_private=true&show_icons=true&theme=dark" />
 </div>
 
 <br>
