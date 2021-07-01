@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Fullstack developer passionate about technology, challenges and the nodejs ecosystem.
 - 🎓 &nbsp; Studying Computer Engineering at Federal University of Ouro Preto (90% 🎓).
-- 💼 &nbsp; Currenty working with React Development at Clubpetro.
+- 💼 &nbsp; Currently working as a full stack software developer and entrepreneur.
 - 🌱 &nbsp; Learning more about DevOps and Angular.
 
 <h3>🛠 Tech Stack</h3>
