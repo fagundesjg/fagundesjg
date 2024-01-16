@@ -5,11 +5,11 @@
 - 🤔 &nbsp; Fullstack developer passionate about technology, challenges and the nodejs ecosystem.
 - 🎓 &nbsp; Studying Computer Engineering at Federal University of Ouro Preto (90% 🎓).
 - 💼 &nbsp; Currently working as a full stack software developer and entrepreneur.
-- 🌱 &nbsp; Learning more about DevOps and Angular.
+- 🌱 &nbsp; Learning more about Rust and Go.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | Typescript | Python | Java | C/C++
+- 💻 &nbsp; Javascript | Typescript | Python | Java | C/C++ | Golang | Rust
 - ✨&nbsp; NodeJS | ReactJS | Angular | Electron | NestJS
 - 📱&nbsp; React-Native
 - 🛢 &nbsp; MySQL | Postgress | MongoDB
